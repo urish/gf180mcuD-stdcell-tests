@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Nov 18 20:57:52 2025
+[*]
+[dumpfile] "/home/uri/p/gf180mcuD-gl-issue/tb.vcd"
+[dumpfile_mtime] "Tue Nov 18 20:57:33 2025"
+[dumpfile_size] 903
+[savefile] "/home/uri/p/gf180mcuD-gl-issue/tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-13.245116 27600 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 276
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+tb.a1
+tb.a2
+tb.b
+tb.zn
+[pattern_trace] 1
+[pattern_trace] 0
